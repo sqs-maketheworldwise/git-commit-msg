@@ -1,6 +1,6 @@
 # git-commit-msg
 
-- .git/hooks/commit-msg
+- .git/hooks/commit-msg (파일 생성 후 코드 삽입)
 
 ```shell
 #!/bin/sh
